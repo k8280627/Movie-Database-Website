@@ -2,13 +2,13 @@
 An interactive website connected to a movie database, displaying info of (inserted) actor/movie/director, written by PHP and MySQL
 
 This repository contains 10 PHP files and 2 SQL files:<br>
-movie.php <br>
+1.movie.php <br>
 	-for the display of the website, dividing the website to two frames, left frame is shown by IndexFile.php, and right frame is shown by search.php.<br>
-IndexFile.php<br>
+2.IndexFile.php<br>
 	-showing and linking five input pages, two browsing pages and one search pages.<br>
-search.php<br>
+3.search.php<br>
 	-can search actor/movie and also link to actor and movie info.<br>
-addActorDirector.php<br>
+4.addActorDirector.php<br>
 	-can add actor or director info.<br>
 addMovie.php<br>
 	-can add movie info.<br>
