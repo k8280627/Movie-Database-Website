@@ -1,5 +1,5 @@
 # Movie-Database-Website
-An interactive website connected to a movie database, displaying info of (inserted) actor/movie/director, written by PHP and MySQL<br>
+An interactive website connected to a movie database, displaying info of (inserted) actor/movie/director, written by PHP and MySQL.<br>
 This repository contains 10 PHP files and 2 SQL files:<br><br>
 1.movie.php <br>
 	-for the display of the website, dividing the website to two frames, left frame is shown by IndexFile.php, and right frame is shown by search.php.<br>
